@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # micro-todoList
 # Go-Micro V2 + RabbitMQ 构造简单备忘录
 
@@ -112,4 +109,3 @@ go run main.go --registry=etcd --registry_address=127.0.0.1:2379
 ```
 
 **如果出错一定要注意打开etcd的keeper查看服务是否注册到etcd中。**
->>>>>>> 9dae570 (My TodoList)
